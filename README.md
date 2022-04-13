@@ -11,7 +11,7 @@ DATA: This data comes from the UCI Machine Learning repository and was collected
 4. Bar
 5. More expensive restaurants ($20-$50)
 
-In this analysis, I've explored acceptance rates of Coffee Houses and Bar coupons. Coffee Houses coupons is the most frequently distributed driver coupon, approximatelt 32% of the total coupons and Bar coupons are second to the lowest less frequently distributed coupon, approximately 18% of the total coupons distributed. 
+In this analysis, acceptance rates of Coffee Houses and Bar coupons were explored. Coffee Houses coupons is the most frequently distributed driver coupon, approximatelt 32% of the total coupons and Bar coupons are second to the lowest less frequently distributed coupon, approximately 18% of the total coupons distributed. 
 
 
 Key Findings on the acceptance of Bar Coupons:
@@ -30,4 +30,4 @@ Key Findings on the acceptance of Coffee House Coupons:
 
 1. Customers who went to a coffee house less frequently are more likely to use the coffee house coupon, as the 70% acceptance rate shows compared to customers who come to coffee houses more frequently. Just like bar case in bar coupons, less frequent coffee drinkers can use the coupon as an incentive to go to a coffee house.
 
-2. # TO BE CONTINUED..
+2.  TO BE CONTINUED..
