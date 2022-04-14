@@ -16,7 +16,7 @@ In this analysis, acceptance rates of Coffee Houses and Bar coupons were explore
 
 Key Findings on acceptance of Bar Coupons:
 
-1. Customers who goes to bars more frequently are less likely to accept bar coupons than customers who goes to the bar less. If they like to go to bars, they will go regardless of having a coupon. On the other hand, less frequent bar goers are more likely to accept the coupon, as the 81% acceptance rate shows. They do not like going to bar too much and to spend money there is not a priority for them, so bar coupons might be a good incentive. 
+1. Customers who goes to bars more frequently are less likely to accept bar coupons than customers who goes to the bar less. If they like to go to bars, they will go regardless of having a coupon. On the other hand, less frequent bar goers are more likely to accept the coupon, as the 81% acceptance rate shows. In this group, bar coupons appeal to ages 21 to early 30s. Spending money in a bar is less priority for them, so bar coupons might be a good incentive. 
 
 2. Customers going to bar more than once a month and over age of 25 are likely to accept bar coupons. This age group itself already assume the beginning of drinking stage and high social engagements. This group of customers  are either just started to go to bars or can also be the customers who have been going to bars more frequently. 
 
@@ -36,3 +36,5 @@ Key Findings on the acceptance of Coffee House Coupons:
 3. Female customers who goes with their friends are less likely to accept coupons. Drinking coffee is a form of social engagement and obviously is enjoyed with friends with or without coupons. Majority of the females in this group are in the ages of 21 and 26. Apparently, this is the same trend as the male counterpart. Acceptance rate for female customers with friends is approximately 19% and 18% for males.
 
 4. Customers who went to coffee house less frequently and is not married are more likely to want coupons than married customers. It appears that the difference in this group is that majority of the customers who are not married are on the income range between $12.5K to $50K compared to the married group having income between $50K to 100K. It is quite apparent that acceptance rates  are much higher in the not married group (43%) than in the married group (27%) . These customers who are not married has lesser income to spend for coffee and coupons will definitely work for them.
+
+5. Majority of the customers who have accepted Coffee House coupons were either unemployed or a student. Much of the stress and free time of the unemployed is taken out on coffee while students drink coffee to stay up late and study.
